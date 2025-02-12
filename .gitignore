@@ -30,6 +30,5 @@
 *.out
 *.app
 
-build_*/
-build/*
+
 .DS_Store
