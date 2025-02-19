@@ -1,2 +1,2 @@
-﻿  Lab03_Textures.cpp
-  Lab03_Textures.vcxproj -> D:\Computer-Graphics-Labs\build\Debug\Lab03_Textures.exe
+﻿  LINK : D:\Computer-Graphics-Labs\build\Debug\Lab03_Textures.exe not found or not built by the last incremental link; performing full link
+LINK : fatal error LNK1104: cannot open file 'external\glfw-3.1.2\src\Debug\glfw3.lib'

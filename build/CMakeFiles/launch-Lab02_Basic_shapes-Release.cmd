@@ -5,5 +5,5 @@ if [%1]==[--debugger] (
 	SHIFT
 )
 
-"D:\Computer-Graphics-Labs\build\Release\Lab02_Basic_shapes.exe"  
+"D:\Unity_Projects\Computer-Graphics-Labs\build\Release\Lab02_Basic_shapes.exe"  
 pause

@@ -5,5 +5,5 @@ if [%1]==[--debugger] (
 	SHIFT
 )
 
-"D:\Computer-Graphics-Labs\build\MinSizeRel\Lab10_Quaternions.exe"  
+"D:\Unity_Projects\Computer-Graphics-Labs\build\MinSizeRel\Lab10_Quaternions.exe"  
 pause
