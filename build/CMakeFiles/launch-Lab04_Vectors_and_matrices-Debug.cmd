@@ -5,5 +5,5 @@ if [%1]==[--debugger] (
 	SHIFT
 )
 
-"D:\Unity_Projects\Computer-Graphics-Labs\build\Debug\Lab04_Vectors_and_matrices.exe"  
+"D:\Computer-Graphics-Labs\build\Debug\Lab04_Vectors_and_matrices.exe"  
 pause

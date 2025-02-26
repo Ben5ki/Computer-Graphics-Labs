@@ -1,3 +1,4 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Lab04_Vectors_and_matrices.dir\Debug\) contains files shared from another project (Lab04_Vectors_and_matrices.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   Lab04_Vectors_and_matrices.cpp
-  Lab04_Vectors_and_matrices.vcxproj -> D:\Unity_Projects\Computer-Graphics-Labs\build\Debug\Lab04_Vectors_and_matrices.exe
+  LINK : D:\Unity_Projects\Computer-Graphics-Labs\build\Debug\Lab04_Vectors_and_matrices.exe not found or not built by the last incremental link; performing full link
+LINK : fatal error LNK1104: cannot open file 'external\glfw-3.1.2\src\Debug\glfw3.lib'

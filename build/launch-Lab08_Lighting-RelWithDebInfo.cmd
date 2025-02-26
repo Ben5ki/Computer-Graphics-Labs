@@ -5,5 +5,5 @@ if [%1]==[--debugger] (
 	SHIFT
 )
 
-"D:\Unity_Projects\Computer-Graphics-Labs\build\RelWithDebInfo\Lab08_Lighting.exe"  
+"D:\Computer-Graphics-Labs\build\RelWithDebInfo\Lab08_Lighting.exe"  
 pause
