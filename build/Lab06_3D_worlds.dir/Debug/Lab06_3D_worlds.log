@@ -1,0 +1,4 @@
+﻿  Lab06_3D_worlds.cpp
+D:\Computer-Graphics-Labs\Lab06_3D_worlds\Lab06_3D_worlds.cpp(261,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Computer-Graphics-Labs\Lab06_3D_worlds\Lab06_3D_worlds.cpp(295,27): warning C4018: '<': signed/unsigned mismatch
+  Lab06_3D_worlds.vcxproj -> D:\Computer-Graphics-Labs\build\Debug\Lab06_3D_worlds.exe

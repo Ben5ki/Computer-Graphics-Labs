@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Computer-Graphics-Labs\\build\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D430FB-67A7-3B63-AA06-09036212602B}|Lab05_Transformations.vcxproj|D:\\Computer-Graphics-Labs\\Lab05_Transformations\\Lab05_Transformations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C7D13B66-CAD0-3D98-9E14-625171FC8D6C}|Lab06_3D_worlds.vcxproj|D:\\Computer-Graphics-Labs\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D430FB-67A7-3B63-AA06-09036212602B}|Lab05_Transformations.vcxproj|D:\\Computer-Graphics-Labs\\common\\maths.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C7D13B66-CAD0-3D98-9E14-625171FC8D6C}|Lab06_3D_worlds.vcxproj|D:\\Computer-Graphics-Labs\\common\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D430FB-67A7-3B63-AA06-09036212602B}|Lab05_Transformations.vcxproj|D:\\Computer-Graphics-Labs\\common\\maths.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C7D13B66-CAD0-3D98-9E14-625171FC8D6C}|Lab06_3D_worlds.vcxproj|D:\\Computer-Graphics-Labs\\common\\camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D430FB-67A7-3B63-AA06-09036212602B}|Lab05_Transformations.vcxproj|D:\\Computer-Graphics-Labs\\Lab05_Transformations\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C7D13B66-CAD0-3D98-9E14-625171FC8D6C}|Lab06_3D_worlds.vcxproj|D:\\Computer-Graphics-Labs\\Lab06_3D_worlds\\vertexShader.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +26,54 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "maths.cpp",
-              "DocumentMoniker": "D:\\Computer-Graphics-Labs\\common\\maths.cpp",
-              "RelativeDocumentMoniker": "..\\common\\maths.cpp",
-              "ToolTip": "D:\\Computer-Graphics-Labs\\common\\maths.cpp",
-              "RelativeToolTip": "..\\common\\maths.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "camera.cpp",
+              "DocumentMoniker": "D:\\Computer-Graphics-Labs\\common\\camera.cpp",
+              "RelativeDocumentMoniker": "..\\common\\camera.cpp",
+              "ToolTip": "D:\\Computer-Graphics-Labs\\common\\camera.cpp",
+              "RelativeToolTip": "..\\common\\camera.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-26T13:36:25.294Z",
+              "WhenOpened": "2025-03-05T13:40:09.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "maths.hpp",
-              "DocumentMoniker": "D:\\Computer-Graphics-Labs\\common\\maths.hpp",
-              "RelativeDocumentMoniker": "..\\common\\maths.hpp",
-              "ToolTip": "D:\\Computer-Graphics-Labs\\common\\maths.hpp",
-              "RelativeToolTip": "..\\common\\maths.hpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "camera.hpp",
+              "DocumentMoniker": "D:\\Computer-Graphics-Labs\\common\\camera.hpp",
+              "RelativeDocumentMoniker": "..\\common\\camera.hpp",
+              "ToolTip": "D:\\Computer-Graphics-Labs\\common\\camera.hpp",
+              "RelativeToolTip": "..\\common\\camera.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-26T13:34:22.12Z",
+              "WhenOpened": "2025-03-05T13:39:58.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "vertexShader.glsl",
-              "DocumentMoniker": "D:\\Computer-Graphics-Labs\\Lab05_Transformations\\vertexShader.glsl",
-              "RelativeDocumentMoniker": "..\\Lab05_Transformations\\vertexShader.glsl",
-              "ToolTip": "D:\\Computer-Graphics-Labs\\Lab05_Transformations\\vertexShader.glsl",
-              "RelativeToolTip": "..\\Lab05_Transformations\\vertexShader.glsl",
+              "DocumentMoniker": "D:\\Computer-Graphics-Labs\\Lab06_3D_worlds\\vertexShader.glsl",
+              "RelativeDocumentMoniker": "..\\Lab06_3D_worlds\\vertexShader.glsl",
+              "ToolTip": "D:\\Computer-Graphics-Labs\\Lab06_3D_worlds\\vertexShader.glsl",
+              "RelativeToolTip": "..\\Lab06_3D_worlds\\vertexShader.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-26T13:33:26.846Z",
+              "WhenOpened": "2025-03-05T13:31:31.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lab05_Transformations.cpp",
-              "DocumentMoniker": "D:\\Computer-Graphics-Labs\\Lab05_Transformations\\Lab05_Transformations.cpp",
-              "RelativeDocumentMoniker": "..\\Lab05_Transformations\\Lab05_Transformations.cpp",
-              "ToolTip": "D:\\Computer-Graphics-Labs\\Lab05_Transformations\\Lab05_Transformations.cpp",
-              "RelativeToolTip": "..\\Lab05_Transformations\\Lab05_Transformations.cpp",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAqwJIAAAAcAAAA",
+              "Title": "Lab06_3D_worlds.cpp",
+              "DocumentMoniker": "D:\\Computer-Graphics-Labs\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
+              "RelativeDocumentMoniker": "..\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
+              "ToolTip": "D:\\Computer-Graphics-Labs\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
+              "RelativeToolTip": "..\\Lab06_3D_worlds\\Lab06_3D_worlds.cpp",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAAACQBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-26T13:25:50.086Z",
+              "WhenOpened": "2025-03-05T13:27:27.135Z",
               "EditorCaption": ""
             }
           ]
