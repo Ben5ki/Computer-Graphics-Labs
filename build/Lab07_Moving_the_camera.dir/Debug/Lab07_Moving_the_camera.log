@@ -1,0 +1,5 @@
+﻿  Lab07_Moving_the_camera.cpp
+  camera.cpp
+D:\Computer-Graphics-Labs\Lab07_Moving_the_camera\Lab07_Moving_the_camera.cpp(255,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Computer-Graphics-Labs\Lab07_Moving_the_camera\Lab07_Moving_the_camera.cpp(279,27): warning C4018: '<': signed/unsigned mismatch
+  Lab07_Moving_the_camera.vcxproj -> D:\Computer-Graphics-Labs\build\Debug\Lab07_Moving_the_camera.exe
